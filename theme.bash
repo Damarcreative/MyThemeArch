@@ -49,12 +49,12 @@ geany_font='JetBrainsMono Nerd Font 10'
 
 # Appearance
 gtk_font='Noto Sans 9'
-gtk_theme='Arc-Dark'
-icon_theme='Zafiro'
-cursor_theme='Qogirr'
+gtk_theme='Windows-10-Dark'
+icon_theme='Win11-dark'
+cursor_theme='Windows'
 
 # Openbox
-ob_theme='OB-Arc-Dark'
+ob_theme='OB-Windows-10-Dark'
 ob_layout='DLIMC'
 ob_font='JetBrains Mono'
 ob_font_size='9'
